@@ -1,0 +1,21 @@
+title: Samantha Tyles
+description: Information and Technology Student
+site_title: 'Samantha Tyles UX Portfolio'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: styles6
+blog_url: 
+email: styles@terpmail.umd.edu
+# keybase_username: 
+# twitter_username: a
+# reddit_username: 
+
+# absolute or relative
+# profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
